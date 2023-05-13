@@ -9,7 +9,6 @@ public class Main {
         history.setYearOfIssue(2021);
         System.out.println(history.getYearOfIssue());
 
-
         System.out.println();
 
         Author tinkof = new Author("Олег",  "Тиньков");
